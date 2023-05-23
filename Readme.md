@@ -1,0 +1,1 @@
+Olá, este repositório será utilizado como portifólio referente aos códigos feitos em Java durante a faculdade de Sistema de Informação no IFMG
